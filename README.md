@@ -1,1 +1,1 @@
-# Coursera_Capstone
+# The project season begins
